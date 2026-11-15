@@ -1350,7 +1350,7 @@ const itemReceipts = [];
     ];
     return `<section class="wrap"><div class="helphero"><h1>Ada yang bisa kami bantu?</h1>
         <p>Temukan jawabannya di sini, atau hubungi kami langsung.</p>
-        <a class="btn" href="https://wa.me/6281200000000" target="_blank" rel="noopener">Chat WhatsApp</a></div></section>
+        <a class="btn" href="https://wa.me/6287882298286" target="_blank" rel="noopener">Chat WhatsApp</a></div></section>
       <section class="wrap"><div class="infogrid">${kontak.map(([judul, isi]) => `<div class="info"><small>${judul}</small><b>${isi}</b></div>`).join("")}</div></section>
       <section class="wrap"><h2>Informasi layanan</h2><div class="infogrid">${layanan.map(([judul, isi]) => `<div class="info"><h3>${judul}</h3><p>${isi}</p></div>`).join("")}</div></section>
       <section class="wrap narrow"><h2>Pertanyaan umum</h2>${faq.map(([tanya, jawab]) => `<details><summary>${tanya}</summary><p>${jawab}</p></details>`).join("")}</section>`;
